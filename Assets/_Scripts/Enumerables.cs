@@ -1,0 +1,1 @@
+﻿public enum AudioRange { SubBass, Bass, LowMid, Mid, UpperMid, Presence, Brilliance, SuperBrilliance, Beat };
